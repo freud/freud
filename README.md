@@ -10,5 +10,5 @@ Leader of software development communities:
 
 Bicycles 🚴‍♀️ lover and [Rowerek.pl](https://rowerek.pl) owner.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=freud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=freud&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freud&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
